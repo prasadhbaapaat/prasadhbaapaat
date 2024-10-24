@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prasadhbaapaat
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning FLutter
-- 💞️ I’m looking to collaborate on App Making in Flutter
+- 🌱 I’m currently developing Tutorial Series on various topics
 - 📫 How to reach me prasadhbaapaat@gmail.com
 
 <!---
