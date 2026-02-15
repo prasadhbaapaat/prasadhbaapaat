@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasadhbaapaat
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently developing Tutorial Series on various topics
+- 👀 I’m interested in AI, App & Web Development
+- 🌱 I’m currently developing various Mobile & Web Apps, CMS & Platforms
 - 📫 How to reach me prasadhbaapaat@gmail.com
 
 <!---
